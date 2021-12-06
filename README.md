@@ -1,3 +1,4 @@
+![gitGIF](https://user-images.githubusercontent.com/63594588/144900960-7758e001-0ca4-42f1-b5dd-1e0b372c0082.gif)
 # Movie Application
 can a user see movies and descriptions of this movie and can  
 add    the movie to watchList and can search for movie
